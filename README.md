@@ -1,4 +1,4 @@
-<h1 align="center">Oi🖖, me chamo Tiago Ferrer</h1>
+<h1 align="center">Oi, me chamo Tiago Ferrer 🖖</h1>
 <h3 align="center">Iniciando minha jornada rumo a uma carreira em Ciência de Dados.</h3>
 
 - 🚧 Atualmente, estou estudando, para melhorar as minhas habilidades. [Imersão em Dados - Escola DNC](https://www.escoladnc.com.br/imersao-em-dados)
