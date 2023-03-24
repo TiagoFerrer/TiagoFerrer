@@ -5,6 +5,8 @@
 
 - 👨‍🎓 Estou aprendendo **Python, SQL e Power BI**
 
+- 📕 O que estou lendo [Data Story (Nancy Duarte)](https://www.amazon.com.br/Data-Story-Explique-inspire-hist%C3%B3rias/dp/6555203013)
+
 - 💬 Pergunte-me sobre **Python, SQL, Power BI e Excel**
 
 - 📫 Você me acha através do e-mail **tiago.ferrer@gmail.com**
