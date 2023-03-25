@@ -5,7 +5,9 @@
 
 - 👨‍🎓 Estou aprendendo **Python, SQL e Power BI**
 
-- 📕 O que estou lendo [Data Story (Nancy Duarte)](https://www.amazon.com.br/Data-Story-Explique-inspire-hist%C3%B3rias/dp/6555203013)
+- 📕 O que estou lendo [Data Story](https://www.amazon.com.br/Data-Story-Explique-inspire-hist%C3%B3rias/dp/6555203013)
+
+- 📊 Visite meu repositório, onde estou colocando os meus projetos [Ciencia-de-Dados](https://github.com/TiagoFerrer/Ciencia-de-Dados.git)
 
 - 💬 Pergunte-me sobre **Python, SQL, Power BI e Excel**
 
